@@ -1,0 +1,764 @@
+nav.navbar{
+    /* height: 60px;    */
+     color: #0071ba;
+     background:  #0071ba;
+    outline: 0;
+ } 
+#banner h5{
+    margin-top: -350px;
+    /* margin-left: 350px; */
+    text-align: center;
+    color: darkblue;
+}
+#banner .btn{
+    margin-left: 600px;
+}
+#abouthead h3{
+    margin-top: 300px;
+}
+#abouthead p{
+    text-align: justify;
+    line-height: 1.7;
+}
+#abouthead .feature-icon{
+    width: 50px;
+    /* height: 80px; */
+    color: #0071ba;
+    line-height:50px;
+	text-align:center;
+	border-radius: 50%;
+	font-size:30px;
+	border:1px solid #EBEBEB;
+}
+#aboutimg{
+    margin-top: 300px;
+    width: 100%;
+}
+#footer{
+    background-color:  #0071ba ;
+    height: 75px;
+    padding: 10px;
+}
+#footer .footer-copyright{
+    text-align: center;
+    margin-left: 100px;
+    color: white;
+
+}
+#aboutcapgemini h6{
+    color: orangered;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-size: 22px;
+  }
+  
+  #aboutcapgemini a{
+    color: green;
+  }
+  #Capgem a{
+    color:darkgoldenrod;
+    font-size: 16px;
+  }
+  #Capgem p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-top: 20px;
+
+  }
+  #Capgem h3{
+    margin-top: 30px;
+  }
+  #capgemprocess h3{
+    margin-top: 20px;
+  }
+  #capgemprocess p{
+    line-height: 1.7;
+    text-align:justify;
+    margin-top: 20px;
+  }
+  #capgemprocess a{
+    color:orange;
+    font-size: 18px;
+  }
+  #capgemprocess iframe{
+    /* margin-left: 200px; */
+    margin-top: 40px;
+  }
+  /* end Cagemini */
+  #aboutcognizant h6{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px; 
+  }
+  #aboutcognizant a{
+    color: green;
+  }
+  
+   #cognizant h3{
+   margin-top:30px
+  } 
+  #cognizant p{
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  #cognizant a{
+    font-size: 18px;
+  }
+  
+  #cognizantprocess h3{
+    margin-top: 30px;
+  }
+  #cognizantprocess p{
+    margin-top: 20px;
+    text-align: justify;
+    line-height: 1.7;
+  }
+  #cognizantprocess a{
+    color: #dd4b39;
+  
+  }
+  #cognizantprocess h6{
+    
+    margin-top: 10px;
+  }
+  
+  /* end cognizant process */
+  /* hcl start */
+
+  #abouthcl h6{
+    color: #3B5998;
+    font-size: 22px; 
+    font-family: 'Bangers', cursive;
+   font-family: 'Bowlby One SC', cursive;
+   font-family: 'Fjalla One', sans-serif; 
+  }
+  #abouthcl a{
+    color: green;
+  }
+  #hcl h3{
+   
+    margin-top: 30px;
+  }
+  #hcl p{
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  #hcl h5{
+    margin-top: 20px;
+  }
+  #hclprocess h3{
+    margin-top: 30px;
+    
+  }
+  #hclprocess p{
+    margin-top: 20px;
+    line-height: 1.7;
+    text-align: justify;
+  }
+  #hclprocess a{
+    color:orangered;
+    font-size: 18px;
+  }
+  /* end hcl */
+  /* start info */
+  #aboutinfosys h6{
+    color: #3B5998;
+    font-size: 22px; 
+    font-family: 'Bangers', cursive;
+    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Fjalla One', sans-serif
+  }
+  #aboutinfosys a{
+    color: green;
+  }
+  #infosys a{
+    color:rgba(151, 26, 224, 0.959);
+  }
+  #infosys p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-top: 20px;
+  }
+  #infosys h3{
+    margin-top: 30px;
+    
+  }
+  #infoprocess p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-top: 20px;
+  }
+  #infoprocess h3{
+    margin-top: 30px;
+    
+  }
+  #infoprocess a{
+    color:orange;
+  }
+  /* end info */
+  /* start ibm */
+ 
+   #aboutibm h6{
+    margin-top: -30px;
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px; 
+  }
+  #aboutibm a{
+    color:green;
+  }
+  #ibm a{
+    color:sandybrown;
+  }
+  #ibm h3{
+    margin-top: 30px;
+  }
+  #ibm p{
+    margin-top: 20px;
+    text-align: justify;
+    line-height: 1.7;
+  }
+  #ibmprocess p{
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  #ibmprocess h3{
+    margin-top: 30px;
+  
+  }
+  /* ibm end */
+  /* mind tree start */
+  #aboutmind a{
+    color:green;
+  }
+  #aboutmind h6{
+    color: slategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px; 
+  }
+  #mind a{
+    color:brown;
+  }
+  #mind h3{
+    margin-top:30px;
+   
+  }
+  #mind p{
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  #mindprocess h3{
+    margin-top: 30px;
+  }
+  #mindprocess p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-top: 20px;
+  }
+
+  /* end mindtree */
+  /* start mphasis */
+  #aboutmphasis h6{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+  }
+  #aboutmphasis a{
+    color:green;
+  }
+  #mphasis h3{
+    margin-top: 30px;
+  }
+  #mphasis p{
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  #mphasis a{
+    color:goldenrod
+  }
+  #mphasisprocess p{
+    text-align: justify;
+    margin-top: 20px;
+    line-height: 1.7;
+  }
+  #mphasisprocess ul{
+    text-align: justify;
+    line-height: 1.7;
+  }
+  #mphasisprocess a{
+    color:palevioletred;
+  }
+  #mphasisprocess h3{
+    margin-top: 10px;
+  }
+  #mphasisprocess h5{
+    margin-top: 10px;
+  }
+  /* end emphasis */
+  #aboutnttdata a{
+    color:green;
+  }
+  /* nttdata start */
+  #aboutnttdata h6{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+  }
+  #nttdataprocess h3{
+    margin-top: 30px;
+  }
+  #nttdataprocess a{
+    color: orangered;
+  }
+  #nttdata h3{
+    margin-top: 30px;
+  }
+  #nttdata p{
+    text-align: justify;
+    margin-top: 20px;
+    line-height: 1.7;
+  }
+  #nttdataprocess p{
+    text-align: justify;
+    margin-top: 20px;
+    line-height: 1.7;
+  }
+  /* end nttdata */
+  /* tech start */
+  #abouttech h6{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px; 
+  }
+  #abouttech a{
+    color:green;
+  }
+  #tech a{
+    color: goldenrod;
+  }
+  #tech p{
+  text-align: justify;
+  line-height: 1.7;
+  margin-top: 20px;
+  }
+  #tech h3{
+    margin-top: 30px;
+  }
+  #techprocess p{
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  #techprocess h3{
+    margin-top: 30px;
+  }
+  #techprocess a{
+    color:crimson
+  }
+  /* end tech */
+  /* start tcs */
+  #abouttcs h6{
+    color: #3B5998;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px; 
+  }
+  #abouttcs a{
+    color: green;
+  }
+  #tcs h3{
+    margin-top: 30px;
+  }
+  #tcs p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-top:20px ;
+  }
+  #tcsprocess p{
+    text-align: justify;
+    line-height: 1.7; 
+    margin-top: 20px;
+  }
+  #tcsprocess h3{
+    margin-top: 30px;
+  }
+  #tcsprocess a{
+    color: orangered;
+  }
+
+  /* end tcs */
+  /* start wipro */
+  #aboutwipro a{
+    color: green;
+  
+  }
+  #aboutwipro h6{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px; 
+  }
+  #wipro a{
+    color:brown;
+  }
+  #wipro p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-left: 30px;
+  }
+  #wipro h5{
+    margin-left: 10px;
+  }
+  #wiproprocess p{
+    text-align: justify;
+    line-height: 1.7;
+    margin-top: 20px;
+  }
+  #wiproprocess h3{ 
+    margin-top: 20px;
+  }
+  /* wipro end */
+  /* start genralmotors */
+  #aboutmotors h6{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+  }
+  #aboutmotors a{
+    color:green;
+  }
+  #motor h3{
+    margin-top: 30px;
+   
+  }
+  #motor p{
+    line-height: 1.7;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  #motor a{
+    color:orange;
+  }
+  #motorprocess h3{
+  
+    margin-top: 30px;
+  }
+  #motorprocess p{
+    text-align: justify;
+    margin-top: 20px;
+    line-height: 1.7;
+  }
+  #motorprocess ul{
+    line-height: 1.7;
+    text-align: justify;
+  }
+  /* end motors */
+ 
+    #abouthpcl a{
+      color:green;
+    }
+    #abouthpcl h6{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    }
+    #hpcl h3{
+      
+      margin-top: 30px;
+    }
+    #hpcl p{
+      text-align: justify;
+      line-height: 1.7;
+      margin-top: 20px;
+    }
+    #hpcl a{
+      color:salmon;
+    }
+    #hpclprocess h3{
+   
+      margin-top: 20px;
+    }
+    #hpclprocess p{
+      margin-top: 20px;
+      text-align: justify;
+      line-height: 1.7;
+    }
+   /* end hpcl */
+
+#aboutkirloskar h6{
+ 
+  color: orangered;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+}
+#aboutkirloskar a{
+  color:green;
+}
+#kirloskar p{
+  text-align: justify;
+  line-height: 1.7;
+}
+#kirloskar h3{
+  margin-top: 30px;
+}
+#kirloskar a{
+  color:brown;
+}
+#kirloskarprocess h3{
+  
+  margin-top: 20px;
+}
+#kirloskarprocess p{
+  margin-top: 20px;
+  text-align: justify;
+  line-height: 1.7;
+}
+#kirloskarprocess ul{
+line-height: 1.7;
+text-align: justify;
+}
+#abouttatagroup a{
+  color:green;
+}
+#abouttatagroup h6{
+  color: orangered;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+}
+#tatagroup h3{
+  margin-top: 30px;
+}
+#tatagroup p{
+  margin-top: 20px;
+  text-align: justify;
+  line-height: 1.7;
+}
+#tatagroup a{
+  color:palevioletred
+}
+#tatagroupprocess h3{
+  margin-top: 20px;
+}
+#tatagroupprocess p{
+  line-height: 1.7;
+  text-align: justify;
+  margin-top: 20px;
+}
+#tatagroupprocess a{
+  color:orangered
+}
+
+#aboutnation h2{
+  color:#3B5998;
+  font-family: 'Sriracha', cursive;
+  font-family: 'Galada', cursive;
+
+}
+#nation p{
+  text-align: justify;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+#nation a{
+  color:green;
+}
+#nation a:hover{
+  color:red ;
+}
+#nation h4{
+  margin-top: 20px;
+  
+} 
+.section-box-three p{
+  margin-top: 25px;
+  font-size: 18px;
+  margin-left: 20px;
+}
+.section-box-three{
+    height: 180px;
+    background: radial-gradient(#6e6e6e,#2f2f2f);
+    background: -webkit-radial-gradient(#6e6e6e,#2f2f2f);
+    background: -moz-radial-gradient(#6e6e6e,#2f2f2f);
+    color: #fff;
+    /* position: relative; */
+    overflow:hidden;
+    width:250px;
+    margin-top: 20px;
+}
+
+.section-box-three figure {
+    position: absolute;
+    text-align: center;
+    padding: 19px;
+    width: 200px;
+    height: 100%;
+}
+.section-box-three img{
+    height: 95%;
+    position: absolute;
+    transition: ease-in-out .3s;
+    -webkit-transition: ease-in-out .3s;
+    -moz-transition: ease-in-out .3s;
+    width:250px;
+}
+.section-box-three:hover img{
+    transform: translate(-50%, 50%);
+    -webkit-transform: translate(-50%, 50%);
+    -moz-transform: translate(-50%, 50%);
+}
+#aboutmonash h2{
+  color:#3B5998;
+  font-family: 'Sriracha', cursive;
+  font-family: 'Galada', cursive;
+}
+
+#aboutrmit h4{
+ 
+  color:#3B5998;
+  font-family: 'Sriracha', cursive;
+font-family: 'Galada', cursive;
+}
+#rmit h2{
+ 
+  margin-top: 40px;
+}
+#rmit a{
+  color: green;
+}
+#rmit a:hover{
+  color: red;
+}
+#rmitcourses p{
+  text-align: justify;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+#rmitcourses h2{
+  margin-left: 100px;
+}
+#rmitcourses h5{
+  margin-top: 25px;
+}
+
+#rmit p{
+  text-align: justify;
+  line-height: 1.7;
+}
+ 
+#Monash p{
+  text-align: justify;
+  line-height: 1.7;
+}
+#Monash a{
+  color:green;
+}
+#Monash a:hover{
+  color: red;
+}
+#Monash h4{
+ margin-top: 30px;
+  
+}
+#monashcourses h4{
+margin-left: 100px;
+}
+#aboutrmit h2{
+  color:#3B5998;
+  font-family: 'Sriracha', cursive;
+font-family: 'Galada', cursive;
+}
+#melbourenecourses h2{
+  /* margin-top: 30px; */
+ margin-left: 100px;
+}
+#melbourenecourses .btn{
+  margin-top: 20px;
+  border-radius: 10px;
+  height: 80px;
+  
+ 
+}
+ #aboutwest h4{
+  color:#3B5998;
+  font-family: 'Sriracha', cursive;
+  font-family: 'Galada', cursive;
+ }
+ 
+ #aboutagriculture h6{
+  margin-top: -30px;
+  margin-left: -200px;
+  color:green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+ }
+ #aboutagriculture a{
+   color: green;
+ }
+ #agricultural h3{
+   
+   margin-top: 30px;
+ }
+ #agricultural p{
+   text-align: justify;
+   line-height: 1.7;
+   margin-top: 20px;
+
+ }
+ #agricultural h5{
+   
+   margin-top: 20px;
+ }
+ #agricultural ul{
+   text-align: justify;
+   line-height: 1.7;
+ }
+ 
+ #nontech h6{
+  
+  color:#3B5998;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+ }
+ #nontech a{
+   color: green;
+ }
+ #aboutips h6{
+  margin-top: 30px;
+  color:orangered;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+ }
+ #aboutips a{
+   color: green;
+ }
+ #ipsprocess h3{
+   margin-left: 200px;
+   margin-top: -120px;
+ }
+ #ipsprocess p{
+   margin-top: 20px;
+   text-align: justify;
+   line-height: 1.7;
+ }
+ #ipsprocess iframe{
+   margin-top: 20px;
+   margin-left: 200px;
+ }
+ #aboutias img{
+   width: 130px;
+   margin-top: -50px;
+ }
+ #aboutias a{
+   color: green;
+ }
+ #aboutias h6{
+  margin-top: -30px;
+  margin-left: -200px;
+  color:orangered;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 22px;
+ }
